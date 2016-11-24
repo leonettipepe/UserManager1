@@ -1,0 +1,10 @@
+INSERT INTO `test` (`id`,`age`,`isAdmin`,`name`,`createdDate`) VALUES (1,30 ,false,'Ostryakov','2016-11-15 23:17:18');
+INSERT INTO `test` (`id`,`age`,`isAdmin`,`name`,`createdDate`) VALUES (2,30 ,false,'Orlov','2016-11-15 23:17:18');
+INSERT INTO `test` (`id`,`age`,`isAdmin`,`name`,`createdDate`) VALUES (3,30 ,false,'Petrov','2016-11-15 23:17:18');
+INSERT INTO `test` (`id`,`age`,`isAdmin`,`name`,`createdDate`) VALUES (4,30 ,false,'Sivodor','2016-11-15 23:17:18');
+INSERT INTO `test` (`id`,`age`,`isAdmin`,`name`,`createdDate`) VALUES (5,30 ,false,'Chashim','2016-11-15 23:17:18');
+INSERT INTO `test` (`id`,`age`,`isAdmin`,`name`,`createdDate`) VALUES (6,30 ,false,'Jones','2016-11-15 23:17:18');
+INSERT INTO `test` (`id`,`age`,`isAdmin`,`name`,`createdDate`) VALUES (7,30 ,false,'Kirk','2016-11-15 23:17:18');
+INSERT INTO `test` (`id`,`age`,`isAdmin`,`name`,`createdDate`) VALUES (8,30 ,false,'Strange','2016-11-15 23:17:18');
+INSERT INTO `test` (`id`,`age`,`isAdmin`,`name`,`createdDate`) VALUES (9,30 ,false,'Darmamu','2016-11-15 23:17:18');
+INSERT INTO `test` (`id`,`age`,`isAdmin`,`name`,`createdDate`) VALUES (10,30 ,false,'Peters','2016-11-15 23:17:18');
